@@ -1,1 +1,2 @@
 File 3 content
+Updated File 3 content
