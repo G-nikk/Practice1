@@ -1,1 +1,2 @@
 File 2 content
+Updated File 2 content in Branch2
